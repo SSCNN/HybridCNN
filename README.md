@@ -1,1 +1,1 @@
-
+The shallow convolution neural network uses pad shallow convolution operation to avoid destroying the structural semantic information of structured text in convolution process, and extracts the decisive classification features by relying on auxiliary network. In the task of commodity number classification of real China Customs import and export declaration forms, the results are better than that of Bert and Roberta.
